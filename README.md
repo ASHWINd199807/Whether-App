@@ -1,2 +1,0 @@
-# Whether-App
-Whether App
